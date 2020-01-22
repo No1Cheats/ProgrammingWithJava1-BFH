@@ -1,8 +1,17 @@
 package javafirstsemester.arraylists;
 
-public class University {
-    public static void main(String[] args) {
+import java.util.ArrayList;
 
+public class University {
+
+    private ArrayList<Student> students = new ArrayList<Student>();
+
+    public University() {
+        //Empty
+    }
+
+    public void addStudent(Student student){
+        students.add(student);
     }
 }
 
