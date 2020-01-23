@@ -1,4 +1,4 @@
-package javafirstsemester.arraylists;
+package ArrayLists;
 
 public class EduTester {
 

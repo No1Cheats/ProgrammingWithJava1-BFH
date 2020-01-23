@@ -1,4 +1,4 @@
-package javafirstsemester.lambdaYT;
+package Streams;
 
 public class Person {
 
