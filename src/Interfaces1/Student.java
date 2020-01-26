@@ -1,4 +1,4 @@
-package Interfaces;
+package Interfaces1;
 
 public class Student implements Customer{
 
