@@ -3,7 +3,7 @@ package Inheritence2;
 public class TesterClass {
     public static void main(String[] args) {
 
-        PizzeriaItaliana pizzeria = new PizzeriaItaliana("PizzeriaItaliana");
+        PizzeriaItaliana pizzeria = new PizzeriaItaliana("PizzeeeeeeeriaItaliana");
         SushiRestaurant sushi = new SushiRestaurant("SushiPalace");
 
         pizzeria.setNumberOfEmployees(10);
