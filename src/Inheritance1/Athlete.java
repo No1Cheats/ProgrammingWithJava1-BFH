@@ -6,5 +6,4 @@ public class Athlete extends Human{
         System.out.println("Running crazy fast"); //This is overwriting the default running method from the Human class we are extending :)
     }
 
-
 }
